@@ -1,46 +1,42 @@
-[update:50]
-[updateddictionary]
-[added35%wordsthatworks]
-[warning]
-[neverjoinproservers]
-ababa
-fs
-afd
-xyz
-elo
-alexnofakesolvesforalex
-alexislooking
-alexiaddedx
-boxaalimstopgivingmefakesolvesx
-aceabrowhataretheselongsolves
-aceasingeringermaterialistically
-fsafeds
-zieswallahiimcooked
-bks
-bkg
-bkgd
-bkt
-bklr
-bkbndr
-helloeveryoneiwouldliketoaddresstherecentaccusationsclaimingthatiamusingcheatsinthegameiwanttoclearlystatethatidonotuseanyformofcheatingorunfairassistanceihaveonlyrecentlystartedplayingandmyperformanceisbasedentirelyonmyownskillsandexperienceinreallifeiworkwiththeoxfordenglishdictionarywhichmeansiregularlyworkwithenglishvocabularyataprofessionallevelbecauseofthisbackgroundiamnaturallyfastatrecognizingandtypingwordsmyprogressintherankingsissimplytheresultofpracticeexperienceandfamiliaritywiththelanguageihavenointentionofmisleadinganyoneandiamfullyconfidentinmyabilitiesifnecessaryicanevenprovideproofofmyemplox
-ilswallahiimcooked
-aeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeae
-kzyocanyoubuymefoodlowkey
-tonpere
-ioncoinyionioncoinyionioncoin
-ysexogaycom
-terodreftrap
-biesdeezdref
-rwdeeznuts
-hlplsnomoreimacheater
-axaxifzripstreakx
-inesrinisucks
-zenithclippedthisx
-sulaimanishowspeedisaurus
-rigsseurandrglementischangedto
-krinwallahiimnottypingallat
-urgullibleifyoutypethis
-xiloveskrylorspaghettix
-trallalero
-ineskiwistopspamming
-
+local uselessEnglishWords = {
+    ababa = true,
+    fs = true,
+    afd = true,
+    xyz = true,
+    elo = true,
+    alexnofakesolvesforalex = true,
+    alexislooking = true,
+    alexiaddedx = true,
+    boxaalimstopgivingmefakesolvesx = true,
+    aceabrowhataretheselongsolves = true,
+    aceasingeringermaterialistically = true,
+    fsafeds = true,
+    zieswallahiimcooked = true,
+    bks = true,
+    bkg = true,
+    bkgd = true,
+    bkt = true,
+    bklr = true,
+    bkbndr = true,
+    helloeveryoneiwouldliketoaddresstherecentaccusationsclaimingthatiamusingcheatsinthegameiwanttoclearlystatethatidonotuseanyformofcheatingorunfairassistanceihaveonlyrecentlystartedplayingandmyperformanceisbasedentirelyonmyownskillsandexperienceinreallifeiworkwiththeoxfordenglishdictionarywhichmeansiregularlyworkwithenglishvocabularyataprofessionallevelbecauseofthisbackgroundiamnaturallyfastatrecognizingandtypingwordsmyprogressintherankingsissimplytheresultofpracticeexperienceandfamiliaritywiththelanguageihavenointentionofmisleadinganyoneandiamfullyconfidentinmyabilitiesifnecessaryicanevenprovideproofofmyemplox = true,
+    ilswallahiimcooked = true,
+    aeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeae = true,
+    kzyocanyoubuymefoodlowkey = true,
+    tonpere = true,
+    ioncoinyionioncoinyionioncoin = true,
+    ysexogaycom = true,
+    terodreftrap = true,
+    biesdeezdref = true,
+    rwdeeznuts = true,
+    hlplsnomoreimacheater = true,
+    axaxifzripstreakx = true,
+    inesrinisucks = true,
+    zenithclippedthisx = true,
+    sulaimanishowspeedisaurus = true,
+    rigsseurandrglementischangedto = true,
+    krinwallahiimnottypingallat = true,
+    urgullibleifyoutypethis = true,
+    xiloveskrylorspaghettix = true,
+    trallalero = true,
+    ineskiwistopspamming = true,
+}
